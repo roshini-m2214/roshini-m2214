@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Roshini 👋
 
-<!--
-**roshini-m2214/roshini-m2214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 EEE Student | Learning C & C++ | Exploring tech one step at a time
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Currently Working On
+- Strengthening C & C++ fundamentals
+- Looking for my first project idea
+- Figuring out what to specialize in next
+
+## 📫 How to Reach Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roshini-m-a84249372)
+
+## 📊 GitHub Stats
+![Roshini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=roshini-m2214&show_icons=true&theme=radical&hide_border=true)
+
+---
+🎨 Hobbies: Sketching, Painting & DIY crafts
+
+⚡ *"Every expert was once a beginner."*
