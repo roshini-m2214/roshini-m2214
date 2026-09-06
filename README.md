@@ -1,12 +1,12 @@
 # Hi there, I'm Roshini 👋
 
-🎓 EEE Student | Learning C & C++ | Exploring tech one step at a time
+🎓 EEE Student | Learning C, C++, typescript, HTML, CSS | Exploring tech one step at a time
 
 ---
 
 ## 🔭 Currently Working On
 - Strengthening C & C++ fundamentals
-- Looking for my first project idea
+- Building project ideas
 - Figuring out what to specialize in next
 
 ## 📫 How to Reach Me
@@ -16,6 +16,6 @@
 ![Roshini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=roshini-m2214&show_icons=true&theme=radical&hide_border=true)
 
 ---
-🎨 Hobbies: Sketching, Painting & DIY crafts
+🎨 Hobbies: Sketching, Painting & DIY crafts, building frontend, creating UI/UX pages
 
 ⚡ *"Every expert was once a beginner."*
